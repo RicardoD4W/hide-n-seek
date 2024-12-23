@@ -23,10 +23,6 @@ You can try the component by adding it to an HTML file and viewing it in your br
 </hide-n-seek>
 ```
 
-```html
-
-```
-
 ## Usage
 
 1. **Add the custom element to your HTML**: You can use the `<hide-n-seek>` tag to wrap the content you want to be hidden initially.
